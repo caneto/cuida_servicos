@@ -1,2 +1,2 @@
-# cuida_servicos
-Aplicação baseada no CuidaPet, focada em diversos tipos de Serviços que se cadastrem e o usuário use.
+# Serviços Gerais Residenciais
+Aplicação para Listar Serviços gerais proximo a sua Localização
