@@ -52,6 +52,7 @@ class _LoginFormState extends State<_LoginForm> {
           ),
           AppDefaultButton(
             onPressed: _login,
+            color: context.primaryColorDark.withOpacity(0.51),
             label: 'Entrar',
           ),
         ],
