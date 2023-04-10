@@ -1,4 +1,4 @@
-package br.com.capsistema.cuidaservicos_mobile
+package br.com.capsistema.servicos_mobile
 
 import io.flutter.embedding.android.FlutterActivity
 
